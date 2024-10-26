@@ -16,7 +16,7 @@ distro==1.9.0
 docstring_parser==0.16
 einops==0.8.0
 encodec==0.1.1
-fastapi==0.115.0
+fastapi==0.115.3
 ffmpy==0.4.0
 filelock==3.16.1
 fireworks-ai==0.15.6
